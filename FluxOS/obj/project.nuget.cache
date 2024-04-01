@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "O3L8GwLufTsggr84p0NnSfU7vkfTDDG5mw90RhdYkHw+OR4mjwqyIpQw9VNfXDaaTiHTp1oXpqqlUutoPoRbbg==",
+  "dgSpecHash": "W1TYbv7KhGTh2+J1W/fcOhb/y7/uxSay+QMMLQ/bC+RaeDOX1NJFTaoyiW/J/zQKzNETeCBe4IKcZenAeO+zyA==",
   "success": true,
   "projectFilePath": "C:\\Users\\tkenn\\source\\repos\\FluxOS\\FluxOS\\FluxOS.csproj",
   "expectedPackageFiles": [
@@ -10,10 +10,7 @@
     "C:\\Users\\tkenn\\.nuget\\packages\\cosmos.debug.kernel\\0.1.0-localbuild20221121060004\\cosmos.debug.kernel.0.1.0-localbuild20221121060004.nupkg.sha512",
     "C:\\Users\\tkenn\\.nuget\\packages\\cosmos.hal2\\0.1.0-localbuild20221121060004\\cosmos.hal2.0.1.0-localbuild20221121060004.nupkg.sha512",
     "C:\\Users\\tkenn\\.nuget\\packages\\cosmos.system2\\0.1.0-localbuild20221121060004\\cosmos.system2.0.1.0-localbuild20221121060004.nupkg.sha512",
-    "C:\\Users\\tkenn\\.nuget\\packages\\il2cpu.api\\0.1.0-localbuild20221121060004\\il2cpu.api.0.1.0-localbuild20221121060004.nupkg.sha512",
-    "C:\\Users\\tkenn\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\tkenn\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\tkenn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512"
+    "C:\\Users\\tkenn\\.nuget\\packages\\il2cpu.api\\0.1.0-localbuild20221121060004\\il2cpu.api.0.1.0-localbuild20221121060004.nupkg.sha512"
   ],
   "logs": []
 }

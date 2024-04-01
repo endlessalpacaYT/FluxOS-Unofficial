@@ -1,0 +1,12 @@
+C:\Users\tkenn\source\repos\FluxOS\FluxOS\bin\Release\net6.0\FluxOS.deps.json
+C:\Users\tkenn\source\repos\FluxOS\FluxOS\bin\Release\net6.0\FluxOS.dll
+C:\Users\tkenn\source\repos\FluxOS\FluxOS\bin\Release\net6.0\FluxOS.pdb
+C:\Users\tkenn\source\repos\FluxOS\FluxOS\obj\Release\net6.0\FluxOS.csproj.AssemblyReference.cache
+C:\Users\tkenn\source\repos\FluxOS\FluxOS\obj\Release\net6.0\FluxOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkenn\source\repos\FluxOS\FluxOS\obj\Release\net6.0\FluxOS.AssemblyInfoInputs.cache
+C:\Users\tkenn\source\repos\FluxOS\FluxOS\obj\Release\net6.0\FluxOS.AssemblyInfo.cs
+C:\Users\tkenn\source\repos\FluxOS\FluxOS\obj\Release\net6.0\FluxOS.csproj.CoreCompileInputs.cache
+C:\Users\tkenn\source\repos\FluxOS\FluxOS\obj\Release\net6.0\FluxOS.dll
+C:\Users\tkenn\source\repos\FluxOS\FluxOS\obj\Release\net6.0\refint\FluxOS.dll
+C:\Users\tkenn\source\repos\FluxOS\FluxOS\obj\Release\net6.0\FluxOS.pdb
+C:\Users\tkenn\source\repos\FluxOS\FluxOS\obj\Release\net6.0\ref\FluxOS.dll
